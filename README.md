@@ -21,7 +21,6 @@
 NOM        : Aaron (Aar0n07)
 ÉCOLE      : ETML
 SPÉCIALITÉ : code · réseau · sécurité
-OBSESSION  : messages cachés (morse, binaire, stéganographie)
 STATUT     : en ligne
 ```
 
@@ -80,11 +79,3 @@ STATUT     : en ligne
 </div>
 
 ---
-
-<div align="center">
-
-<sub><code>&gt; un message caché quelque part dans mes repos 👀</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:2a0845,100:0d0221&height=90&section=footer&stroke=ff2a6d&strokeWidth=2" alt="footer" />
-
-</div>

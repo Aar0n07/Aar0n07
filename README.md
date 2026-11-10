@@ -21,7 +21,6 @@
 NOM        : Aaron (Aar0n07)
 ÉCOLE      : ETML
 SPÉCIALITÉ : code · réseau · sécurité
-OBSESSION  : messages cachés (morse, binaire, stéganographie)
 STATUT     : en ligne
 ```
 
